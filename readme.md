@@ -68,6 +68,10 @@ No build tools or installation required — everything runs via CDN.
 
 A sleek fashion landing page highlighting upcoming trends, with a bold headline, image composition, and call-to-action for user engagement.
 
+[live](https://elbineldhose007.github.io/stylez/)
+
+![img](./Screenshot_23-4-2026_225532_127.0.0.1.jpeg)
+
 ---
 
 ## 🔮 Future Improvements
