@@ -83,16 +83,3 @@ A sleek fashion landing page highlighting upcoming trends, with a bold headline,
 
 ---
 
-## 👤 Author
-
-Developed by **Anandhu Es**
-
----
-
-## 📄 License
-
-This project is open-source and free to use for learning and development purposes.
-
----
-
-✨ *Stay trendy. Stay ahead.*
